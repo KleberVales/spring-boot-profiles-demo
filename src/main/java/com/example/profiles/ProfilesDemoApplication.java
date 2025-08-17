@@ -1,13 +1,13 @@
-package com.example.springbootprofilesdemo;
+package com.example.profiles;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringBootProfilesDemoApplication {
+public class ProfilesDemoApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringBootProfilesDemoApplication.class, args);
+        SpringApplication.run(ProfilesDemoApplication.class, args);
     }
 
 }

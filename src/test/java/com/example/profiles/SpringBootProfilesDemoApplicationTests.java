@@ -1,4 +1,4 @@
-package com.example.springbootprofilesdemo;
+package com.example.profiles;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
