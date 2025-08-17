@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ProfilesDemoApplication {
 
     public static void main(String[] args) {
+
         SpringApplication.run(ProfilesDemoApplication.class, args);
     }
-
 }
